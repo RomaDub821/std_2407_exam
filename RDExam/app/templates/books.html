@@ -1,0 +1,6 @@
+{% from "_book_form.html" import render_book_form %}
+{% extends "base.html" %}
+{% block title %}Добавить книгу{% endblock %}
+{% block content %}
+    {{ render_book_form(form, show_cover_field=True) }}
+{% endblock %}
