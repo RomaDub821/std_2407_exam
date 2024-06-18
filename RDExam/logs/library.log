@@ -10,3 +10,8 @@
 2024-06-18 03:15:58,781 INFO: Обложка книги удалена: photo_2024-06-06_03-31-55_2.jpg [in D:\exam\RDExam\app\routes.py:100]
 2024-06-18 03:15:59,365 INFO: Книга с ID 51 удалена. [in D:\exam\RDExam\app\routes.py:104]
 2024-06-18 04:35:25,094 INFO: Library startup [in D:\exam\RDExam\app\__init__.py:35]
+2024-06-18 05:10:13,623 INFO: Library startup [in D:\exam\RDExam\app\__init__.py:35]
+2024-06-18 05:30:36,898 INFO: Пользователь 12345 вышел из системы. [in D:\exam\RDExam\app\routes.py:132]
+2024-06-18 05:35:00,953 INFO: Library startup [in D:\exam\RDExam\app\__init__.py:35]
+2024-06-18 05:35:05,121 INFO: Library startup [in D:\exam\RDExam\app\__init__.py:35]
+2024-06-18 05:48:19,924 INFO: Library startup [in D:\exam\RDExam\app\__init__.py:35]
